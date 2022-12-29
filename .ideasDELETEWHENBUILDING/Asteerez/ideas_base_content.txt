@@ -69,3 +69,12 @@ copper coins can be placed on lightning rods to get charge coins which can be th
 high value coins can be thrown at villagers to inflict both damage and a breeding effect 
 
 bottle caps that come from broken bottles, it's effectively rubber but it's a reference to fallout in the fact that they are bottle cap coins
+
+You can craft a coin on a stick which can be used like a shovel and has no effective purpose other than that
+
+In haunted mansions you can find "pillagers bounty" which is a room full of money bags that can contain silver coins or iron coins but when the player takes them they get the bad omen debuff
+
+Bed rock coins which can only be obtained by hitting bedrock with a diamond pickaxe for 10 minutes
+the coin is unbreakable and has no value whatsoever
+
+A coin printing press system which can be fed materials to mass produce coins and if done in a village it could be used to inflate their economy
