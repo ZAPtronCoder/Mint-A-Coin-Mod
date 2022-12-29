@@ -80,3 +80,7 @@ the coin is unbreakable and has no value whatsoever
 A coin printing press system which can be fed materials to mass produce coins and if done in a village it could be used to inflate their economy
 
 Pyramids can have Desert coins which would be gold coins that look like they have specs of sand on them, when flipped the coin can either be destroyed and give the player the mummy's curse debuff which makes the night spawn more enemies and coins lose half their value for 10 minutes, or give them strength 2 and absorption
+
+Coin enchantments, specifically to increase their throw velocity or to make them deal more damage
+
+A curse enchantment called "Curse of bankruptcy" which makes coins lose half their value when wearing the set armor piece
