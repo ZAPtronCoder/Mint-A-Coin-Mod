@@ -47,3 +47,15 @@ if you throw a coin on the ground with grass on it and a sheep eats that grass, 
 Contributer coins which can only be found on random drop chance of villagers and have no use other than display
 
 when a coin is placed in an item frame the item frame gets a special texture around it that looks like the coin
+
+Combining copper, iron, gold, nuggets and 3 netherite scrap can grant you the muticoin which can be flipped for a chance to give you the 2 of 1 of those coins otherwise the coin is detroyed
+
+brick coin that can be made with clay and has no value other than to be thrown for more damage that some of the average coin types
+
+A coin trading station which can be used with specifically players to trade items for coins, you could put an item into a chest like gui and then have a square that's dedicated specifically for coins where you can only put coins into them
+
+in jungle ruins you can come across tokens of the jungle which can be flipped for a chance to break the coin or give you night vision
+
+end coins which can only be found in end structures that can be flipped for leviation and can be thrown to give levitation, these can either drop from shulkers or can be found in the chests
+
+Coin display table which can be made out of wood and the carpet of choice, in this display you can place any multiple of 4 up to 64coins on the display and it will show them on the table for no reason other than decoration
