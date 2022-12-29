@@ -72,7 +72,7 @@ bottle caps that come from broken bottles, it's effectively rubber but it's a re
 
 You can craft a coin on a stick which can be used like a shovel and has no effective purpose other than that
 
-In haunted mansions you can find "pillagers bounty" which is a room full of money bags that can contain silver coins or iron coins but when the player takes them they get the bad omen debuff
+In Woodland mansions you can find "pillagers bounty" which is a room full of money bags that can contain silver coins or iron coins but when the player takes them they get the bad omen debuff
 
 Bed rock coins which can only be obtained by hitting bedrock with a diamond pickaxe for 10 minutes
 the coin is unbreakable and has no value whatsoever
