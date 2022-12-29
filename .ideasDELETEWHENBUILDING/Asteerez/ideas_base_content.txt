@@ -59,3 +59,13 @@ in jungle ruins you can come across tokens of the jungle which can be flipped fo
 end coins which can only be found in end structures that can be flipped for leviation and can be thrown to give levitation, these can either drop from shulkers or can be found in the chests
 
 Coin display table which can be made out of wood and the carpet of choice, in this display you can place any multiple of 4 up to 64coins on the display and it will show them on the table for no reason other than decoration
+
+Discoin, it's a stupid idea but on flip it will 100% drop the link to Zap's Discord server
+
+Coin template that doesn't exist in game but exists purely for people who want to make mod compats
+
+copper coins can be placed on lightning rods to get charge coins which can be thrown to get lightning strikes
+
+high value coins can be thrown at villagers to inflict both damage and a breeding effect 
+
+bottle caps that come from broken bottles, it's effectively rubber but it's a reference to fallout in the fact that they are bottle cap coins
