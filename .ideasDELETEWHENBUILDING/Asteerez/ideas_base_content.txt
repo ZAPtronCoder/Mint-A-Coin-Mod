@@ -84,3 +84,21 @@ Pyramids can have Desert coins which would be gold coins that look like they hav
 Coin enchantments, specifically to increase their throw velocity or to make them deal more damage
 
 A curse enchantment called "Curse of bankruptcy" which makes coins lose half their value when wearing the set armor piece
+
+Glowstone coin which can be placed for light
+
+a dynamic guide book seperate from the coin collection one that specifies how each coin is made labels their value and any special effects they might have, it's dynamic in the fact that it would be easy to make more entries, it would be called "The complete guide to MI-CO" or something like that, it would almost be the coin collection guide but complete, except for the fact that it would most likely only be obtainable in creative or have an extremely rare drop chance
+
+Coin Achievements, they would go into the coin collecting book and could have special funny descriptions or something of the like, this can also be used to keep track of the coins that the player has found or made.
+
+Coins that spawn into any special structures to help the coins feel more like something that's involved in the game.
+
+A special Villager NPC called the coin collector which can sell various "special coins" which can come from any Mint-Addition mods. To be more specific this villager would sell coins like the jungle coin, the desert coin, the coins that give special effects or weaponized coins. Of course the pricing for these coins would have to be significantly high but it'd make sense
+
+Zombies can occasionally drop Obols which are special coins that can be flipped to give flight or a unique debuff called the ferryman's curse which makes you slower and sink in the water, the effect would last for 3 minutes.
+
+abandoned villages can now come with ransacked banks
+
+Pillager towers can have coin bags in them and also occasionally have trapped Iron tellers if they're added to the mod
+
+Fireworks can have coins placed in them which can drop them randomly around the area in which they explode
