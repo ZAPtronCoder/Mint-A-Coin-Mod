@@ -13,6 +13,7 @@ public class ItemInit {
 	
 	// Tools
 	public static final RegistryObject<Item> BALLPEEN_HAMMER = register("ballpeen_hammer", () -> new Item(new Item.Properties().tab(Mint.MINT_TOOLS_TAB).durability(64)));
+	public static final RegistryObject<Item> BLAST_POWDER = register("blast_powder", () -> new Item(new Item.Properties().tab(Mint.MINT_TOOLS_TAB)));
 	// Vanilla Coins
 	public static final RegistryObject<Item> COPPER_COIN = register("copper_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
 	public static final RegistryObject<Item> IRON_COIN = register("iron_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));

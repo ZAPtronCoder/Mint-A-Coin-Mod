@@ -1,0 +1,46 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "value": {
+            "tag": "forge:ingot/zinc",
+            "type": "forge:tag_empty"
+          },
+          "type": "forge:not"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shapeless",
+  		"ingredients": [
+    		{
+      		"item": "mint:blast_powder"
+    		},
+    		{
+      		"tag": "mint:zinc_coin"
+    		},
+    		{
+      		"tag": "mint:zinc_coin"
+    		},
+    		{
+      		"tag": "mint:zinc_coin"
+    		},
+    		{
+      		"tag": "mint:zinc_coin"
+    		},
+    		{
+      		"tag": "mint:zinc_coin"
+    		},
+    		{
+      		"tag": "mint:zinc_coin"
+    		}
+  		],
+  		"result": {
+    		"tag": "forge:ingots/zinc",
+    		"count": 2
+  		}
+      }
+    }
+  ]
+}

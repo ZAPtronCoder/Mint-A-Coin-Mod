@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+  	"ingredients": [
+   		{
+  		"item": "mint:blast_powder"
+   		},
+   		{
+  		"item": "mint:iron_coin"
+   		},
+   		{
+  		"item": "mint:iron_coin"
+   		},
+   		{
+  		"item": "mint:iron_coin"
+   		},
+   		{
+  		"item": "mint:iron_coin"
+   		},
+   		{
+  		"item": "mint:iron_coin"
+   		},
+   		{
+  		"item": "mint:iron_coin"
+   		}
+  	],
+  	"result": {
+   		"item": "minecraft:iron_ingot",
+   		"count": 2
+  	}
+}

@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+  	"ingredients": [
+   		{
+  		"item": "mint:blast_powder"
+   		},
+   		{
+  		"item": "mint:gold_coin"
+   		},
+   		{
+  		"item": "mint:gold_coin"
+   		},
+   		{
+  		"item": "mint:gold_coin"
+   		},
+   		{
+  		"item": "mint:gold_coin"
+   		},
+   		{
+  		"item": "mint:gold_coin"
+   		},
+   		{
+  		"item": "mint:gold_coin"
+   		}
+  	],
+  	"result": {
+   		"item": "minecraft:gold_ingot",
+   		"count": 2
+  	}
+}
