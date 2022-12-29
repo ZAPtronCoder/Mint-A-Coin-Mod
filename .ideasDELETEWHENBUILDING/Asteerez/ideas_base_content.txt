@@ -42,3 +42,8 @@ A rare feature that can spawn into the banks is a stock market that does stock m
 
 Coins can be placed in skulls as a reference to the tradition of obols which would be placed in peoples mouths when they died to give them "sustenance for the journey" and to seal their protection, it wouldn't actually do anything though it'd just be neat little reference that you can decide to add things to
 
+if you throw a coin on the ground with grass on it and a sheep eats that grass, they on the coin and die voiding the coin and giving you base drops
+
+Contributer coins which can only be found on random drop chance of villagers and have no use other than display
+
+when a coin is placed in an item frame the item frame gets a special texture around it that looks like the coin
