@@ -5,3 +5,4 @@
 4. Placeable coins.
 5. A coin bag that would function as a wallet.
 6. Compat with as many mods as possible.
+7. Giving the 'Ball-Peen Hammer' an actual use.
