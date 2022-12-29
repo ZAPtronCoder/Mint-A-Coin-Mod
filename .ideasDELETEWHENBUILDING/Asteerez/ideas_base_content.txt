@@ -4,7 +4,7 @@ For the customizeable currency you could just rip the code from a banner and a l
 
 Make the coins able to be placed and pile up terraria style
 
-Have wells that could give you an effect when you threw a coin in there
+Have wells that could give you an effect when you threw a coin in them
 
 Have a coin that has a 50/50 chance of killing you upon flippage, probably made out of 9 other different coins, you could use it as a way to gamble your own life
 
@@ -17,3 +17,9 @@ have a shit coin that has no value and can only be thrown. It'd generate randoml
 Coin bags that act like hammers as melee weapons. They'd deal large damage but have slow recharge time
 
 Mint Coin Encyclopedia, in game book that dynamically changes based on what coins you have found before (could also be called the Numismatist's guide to MI-CO)
+
+A village structure that is based off of a bank and could have money bags inside of them full of either near worthless or kind of worth coins in them, also having a banking system which could be interconnected with ATMS and what not
+
+On the idea of the village bank you could have iron golems called "Iron Tellers" which can be used to deposit coins or take them out. And if you'd decide to break in to the bank they would aggro and kill you, there'd be 3 different tellers in one bank
+
+Upon death the tellers could give armor pieces that could be worn to give "money resistance" it'd act like the armor for zelda botw where you'd gain good protection based on how much money you have, and upon getting hit you'd lose some of that money, this would only work with teller coins which can only be obtained by killing tellers, the teller coins can be flipped for a funny message.
