@@ -28,4 +28,17 @@ For a larger idea. you could have each village have an economic value in which c
 
 Another larger idea is you could implement small coin goblin thiefs which spawn randomly around y 30 - 20 which can steal coins from you
 
-You could have a Totem of Solvency which makes you keep money on death, it could be made from special antique golden coins which can be found in ruins such as the deep dark or in pots (which you can implement yourself) and 2 amethyst coins which can only be made from amethyst blocks
+You could have a Totem of Solvency which makes you keep money on death, it could be made from special antique golden coins which can be found in ruins such as the aquatic temples or in pots (which you can implement yourself) and 2 emeralds 
+
+Golden coins could be used to trade with piglins in the nether
+
+Antique golden coins can be thrown on the ground in the nether to cause piglin fights
+
+Coins made of turtle shells which can be flipped to either destroy the coin or grant water breathing and keep the coin, they can be found in aquatic temples
+
+Villagers can now carry money upon death (they can carry copper through iron coins)
+
+A rare feature that can spawn into the banks is a stock market that does stock market things
+
+Coins can be placed in skulls as a reference to the tradition of obols which would be placed in peoples mouths when they died to give them "sustenance for the journey" and to seal their protection, it wouldn't actually do anything though it'd just be neat little reference that you can decide to add things to
+
