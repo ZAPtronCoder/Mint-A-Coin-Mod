@@ -13,6 +13,7 @@ public class ItemInit {
 	
 	// Tools
 	public static final RegistryObject<Item> BALLPEEN_HAMMER = register("ballpeen_hammer", () -> new Item(new Item.Properties().tab(Mint.MINT_TOOLS_TAB).durability(64)));
+	public static final RegistryObject<Item> BLAST_POWDER = register("blast_powder", () -> new Item(new Item.Properties().tab(Mint.MINT_TOOLS_TAB)));
 	// Vanilla Coins
 	public static final RegistryObject<Item> COPPER_COIN = register("copper_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
 	public static final RegistryObject<Item> IRON_COIN = register("iron_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
@@ -26,6 +27,10 @@ public class ItemInit {
 	public static final RegistryObject<Item> BRONZE_COIN = register("bronze_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
 	// Galosphere Coins
 	public static final RegistryObject<Item> SILVER_COIN = register("silver_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
+	//Undergarden Coins
+	public static final RegistryObject<Item> CLOGGRUM_COIN = register("cloggrum_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
+	public static final RegistryObject<Item> FORGOTTEN_COIN = register("forgotten_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
+	public static final RegistryObject<Item> FROSTSTEEL_COIN = register("froststeel_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
 	
 	private static <T extends Item> RegistryObject<T> register(final String name, final Supplier<T> item) {
 		return ITEMS.register(name, item);

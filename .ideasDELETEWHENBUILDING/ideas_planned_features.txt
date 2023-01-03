@@ -1,0 +1,8 @@
+> General
+1. Coins dynamically change texture based on stack size.
+2. Vending Machine, a machine players can build for themselves in multiplayer or singleplayer world. When placed attracts villagers that use and buy trades you set up in the machine, with config option that turns off the NPC buyers for multiplayer worlds only allowing players to use the machine (as a way of automating coins I guess).
+3. A plethora of resourcepacks for ultimate customizability. 
+4. Placeable coins.
+5. A coin bag that would function as a wallet.
+6. Compat with as many mods as possible.
+7. Giving the 'Ball-Peen Hammer' an actual use.

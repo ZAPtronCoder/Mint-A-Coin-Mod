@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:coins/brass",
+    "#forge:coins/bronze",
+    "#forge:coins/copper",
+    "#forge:coins/gold",
+    "#forge:coins/iron",
+    "#forge:coins/netherite",
+    "#forge:coins/silver",
+    "#forge:coins/steel",
+    "#forge:coins/zinc"
+  ]
+}

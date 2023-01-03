@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+  	"ingredients": [
+   		{
+  		"item": "mint:blast_powder"
+   		},
+   		{
+  		"item": "mint:netherite_coin"
+   		},
+   		{
+  		"item": "mint:netherite_coin"
+   		},
+   		{
+  		"item": "mint:netherite_coin"
+   		},
+   		{
+  		"item": "mint:netherite_coin"
+   		},
+   		{
+  		"item": "mint:netherite_coin"
+   		},
+   		{
+  		"item": "mint:netherite_coin"
+   		}
+  	],
+  	"result": {
+   		"item": "minecraft:netherite_ingot",
+   		"count": 2
+  	}
+}
