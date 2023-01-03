@@ -27,6 +27,10 @@ public class ItemInit {
 	public static final RegistryObject<Item> BRONZE_COIN = register("bronze_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
 	// Galosphere Coins
 	public static final RegistryObject<Item> SILVER_COIN = register("silver_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
+	//Undergarden Coins
+	public static final RegistryObject<Item> CLOGGRUM_COIN = register("cloggrum_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
+	public static final RegistryObject<Item> FORGOTTEN_COIN = register("forgotten_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
+	public static final RegistryObject<Item> FROSTSTEEL_COIN = register("froststeel_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
 	
 	private static <T extends Item> RegistryObject<T> register(final String name, final Supplier<T> item) {
 		return ITEMS.register(name, item);
