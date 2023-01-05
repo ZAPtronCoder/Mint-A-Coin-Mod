@@ -31,6 +31,24 @@ public class ItemInit {
 	public static final RegistryObject<Item> CLOGGRUM_COIN = register("cloggrum_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
 	public static final RegistryObject<Item> FORGOTTEN_COIN = register("forgotten_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
 	public static final RegistryObject<Item> FROSTSTEEL_COIN = register("froststeel_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
+	//Aquaculture Coins
+	public static final RegistryObject<Item> NEPTUNIUM_COIN = register("neptunium_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
+	//Twilight Forest coins
+	public static final RegistryObject<Item> FIERY_COIN = register("fiery_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
+	public static final RegistryObject<Item> IRONWOOD_COIN = register("ironwood_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
+	public static final RegistryObject<Item> STEELEAF_COIN = register("steeleaf_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
+	//TiC coins (dear lord this is a lot)
+	public static final RegistryObject<Item> COBALT_COIN = register("cobalt_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
+	public static final RegistryObject<Item> MANYULLYN_COIN = register("manyullyn_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
+	public static final RegistryObject<Item> PIG_IRON_COIN = register("pig_iron_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
+	public static final RegistryObject<Item> QUEENS_SLIME_COIN = register("queens_slime_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
+	public static final RegistryObject<Item> ROSE_GOLD_COIN = register("rose_gold_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
+	public static final RegistryObject<Item> SLIMESTEEL_COIN = register("slimesteel_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
+	public static final RegistryObject<Item> AMETHYST_BRONZE_COIN = register("amethyst_bronze_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
+	public static final RegistryObject<Item> HEPATIZON_COIN = register("hepatizon_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
+	//Misc
+	public static final RegistryObject<Item> YIPEE = register("zap_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
+	public static final RegistryObject<Item> STROIN = register("strider_coin", () -> new Item(new Item.Properties().tab(Mint.MINT_COINS_TAB)));
 	
 	private static <T extends Item> RegistryObject<T> register(final String name, final Supplier<T> item) {
 		return ITEMS.register(name, item);
