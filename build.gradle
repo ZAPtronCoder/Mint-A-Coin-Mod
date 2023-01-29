@@ -1,10 +1,29 @@
 buildscript {
     repositories {
         maven { url = 'https://maven.minecraftforge.net' }
+        maven {
+            // Shedaniel's maven (Architectury API)
+            url = "https://maven.architectury.dev"
+            content {
+                includeGroup "dev.architectury"
+            }
+        }
+
+        maven {
+            // saps.dev Maven (KubeJS and Rhino)
+            url = "https://maven.saps.dev/minecraft"
+            content {
+                includeGroup "dev.latvian.mods"
+            }
+        }
+        
         mavenCentral()
     }
     dependencies {
         classpath group: 'net.minecraftforge.gradle', name: 'ForgeGradle', version: '5.1.+', changing: true
+        implementation fg.deobf("dev.latvian.mods:kubejs-forge:1802.5.5-build.567")
+        implementation fg.deobf("dev.latvian.mods:rhino:1802.2.1-build.255")
+        implementation fg.deobf("dev.architectury:architectury-forge:4.10.88")
     }
 }
 
