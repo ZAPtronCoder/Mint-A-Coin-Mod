@@ -1,29 +1,10 @@
 buildscript {
     repositories {
         maven { url = 'https://maven.minecraftforge.net' }
-        maven {
-            // Shedaniel's maven (Architectury API)
-            url = "https://maven.architectury.dev"
-            content {
-                includeGroup "dev.architectury"
-            }
-        }
-
-        maven {
-            // saps.dev Maven (KubeJS and Rhino)
-            url = "https://maven.saps.dev/minecraft"
-            content {
-                includeGroup "dev.latvian.mods"
-            }
-        }
-        
         mavenCentral()
     }
     dependencies {
         classpath group: 'net.minecraftforge.gradle', name: 'ForgeGradle', version: '5.1.+', changing: true
-        implementation fg.deobf("dev.latvian.mods:kubejs-forge:1802.5.5-build.567")
-        implementation fg.deobf("dev.latvian.mods:rhino-forge:1802.2.1-build.255")
-        implementation fg.deobf("dev.architectury:architectury-forge:4.10.88")
     }
 }
 
@@ -114,18 +95,37 @@ minecraft {
 sourceSets.main.resources { srcDir 'src/generated/resources' }
 
 repositories {
-
+    maven {
+        url "file://${project.projectDir}/mcmodsrepo"
+    }
+    maven {
+        // Shedaniel's maven (Architectury API)
+        url = "https://maven.architectury.dev"
+        content {
+            includeGroup "dev.architectury"
+        }
+    }
+    maven {
+        // saps.dev Maven (KubeJS and Rhino)
+        url = "https://maven.saps.dev/minecraft"
+        content {
+            includeGroup "dev.latvian.mods"
+        }
+    }
 }
 
 dependencies {
     minecraft 'net.minecraftforge:forge:1.18.2-40.1.0'
+    implementation fg.deobf("dev.latvian.mods:kubejs-forge:1802.5.5-build.567")
+    implementation fg.deobf("dev.latvian.mods:rhino-forge:1802.2.1-build.255")
+    implementation fg.deobf("dev.architectury:architectury-forge:4.10.88")
 }
 
 jar {
     manifest {
         attributes([
                 "Specification-Title"     : "Mint",
-                "Specification-Vendor"    : "ZAPtron",
+                "Specification-Vendor"    : "ZAPtron, squoshi",
                 "Specification-Version"   : "1", 
                 "Implementation-Title"    : project.name,
                 "Implementation-Version"  : project.jar.archiveVersion,
@@ -144,9 +144,7 @@ publishing {
         }
     }
     repositories {
-        maven {
-            url "file://${project.projectDir}/mcmodsrepo"
-        }
+
     }
 }
 
