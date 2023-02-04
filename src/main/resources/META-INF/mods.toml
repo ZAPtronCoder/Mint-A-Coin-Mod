@@ -1,31 +1,46 @@
-modLoader="javafml" #mandatory
-loaderVersion="[40,)" #mandatory 
+modLoader="javafml" 
+loaderVersion="[40,)" 
 license="All rights reserved"
 [[mods]] 
-modId="mint" #mandatory
-version="${file.jarVersion}" #mandatory
-displayName="Mint" #mandatory
-logoFile="examplemod.png" #optional
-credits="Mint, brought to you by ZAPtron" #optional
-authors="ZAPtron" #optional
+modId="mint" 
+version="${file.jarVersion}" 
+displayName="Mint" 
+logoFile="examplemod.png"
+credits="Mint, brought to you by ZAPtron" 
+authors="ZAPtron" 
 description='''
 Mint
 A mod that adds coins!
 '''
-[[dependencies.mint]] #optional
-    # the modid of the dependency
-    modId="forge" #mandatory
-    # Does this dependency have to exist - if not, ordering below must be specified
-    mandatory=true #mandatory
-    # The version range of the dependency
-    versionRange="[40,)" #mandatory
-    # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
+[[dependencies.mint]] 
+    modId="forge" 
+    mandatory=true 
+    versionRange="[40,)" 
     ordering="NONE"
-    # Side this dependency is applied on - BOTH, CLIENT or SERVER
     side="BOTH"
+
 [[dependencies.mint]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.18.2,1.19)"
     ordering="NONE"
     side="BOTH"
+
+[[dependencies.mint]]
+    modId = "kubejs"
+    mandatory = true
+    versionRange = "[1802.5.5-build.567,)"
+
+[[dependencies.mint]]
+    modId = "rhino"
+    mandatory = true
+    versionRange = "[1802.2.1-build.255,)"
+    ordering = "AFTER"
+    side = "BOTH"
+
+[[dependencies.mint]]
+    modId = "architectury"
+    mandatory = true
+    versionRange = "[4.10.88,)"
+    ordering = "AFTER"
+    side = "BOTH"
