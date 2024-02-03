@@ -1,4 +1,4 @@
 # Mint
-Code and asset repository for a mod of **The Syndicate**, Mint.
+Code and asset repository for a mod made by The Syndicate, named Mint.
 
-Mint is a mod that adds coins (no way) and hopefully in the future will add a use for the coins in both multiplayer AND singleplayer.
+Mint is a mod that adds coins and hopefully in the future will become multi-loader (Fabric, Forge, and NeoForge) and add a use for the coins in both multiplayer *and* singleplayer.
